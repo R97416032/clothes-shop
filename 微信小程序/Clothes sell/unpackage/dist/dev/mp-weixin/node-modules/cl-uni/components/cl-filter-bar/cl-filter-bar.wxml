@@ -1,0 +1,1 @@
+<view class="{{['cl-filter-bar__wrap',isExpand?'is-expand':'']}}"><view class="{{['cl-filter-bar',classList]}}" style="{{'z-index:'+(zIndex)+';'}}"><slot></slot></view><view data-event-opts="{{[['tap',[['close',['$event']]]]]}}" class="cl-filter-bar__mask" bindtap="__e"></view></view>

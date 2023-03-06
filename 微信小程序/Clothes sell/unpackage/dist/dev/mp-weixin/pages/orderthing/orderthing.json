@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "cl-confirm": "/node-modules/cl-uni/components/cl-confirm/cl-confirm",
+    "cl-radio": "/node-modules/cl-uni/components/cl-radio/cl-radio"
+  }
+}

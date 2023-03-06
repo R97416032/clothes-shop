@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "cl-filter-bar": "/node-modules/cl-uni/components/cl-filter-bar/cl-filter-bar",
+    "cl-filter-item": "/node-modules/cl-uni/components/cl-filter-item/cl-filter-item",
+    "cl-tag": "/node-modules/cl-uni/components/cl-tag/cl-tag",
+    "cl-text": "/node-modules/cl-uni/components/cl-text/cl-text"
+  }
+}

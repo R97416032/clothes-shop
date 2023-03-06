@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "img-swiper": "/components/img-swiper/img-swiper",
+    "cl-divider": "/node-modules/cl-uni/components/cl-divider/cl-divider",
+    "uni-card": "/components/uni-card/uni-card",
+    "cl-button": "/node-modules/cl-uni/components/cl-button/cl-button",
+    "vk-data-goods-sku-popup": "/components/vk-data-goods-sku-popup/vk-data-goods-sku-popup",
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav"
+  }
+}

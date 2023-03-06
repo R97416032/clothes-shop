@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onTap',['$event']]]]]}}" class="{{[classList]}}" style="{{'height:'+($root.m0)+';'+('width:'+($root.m1)+';')+('padding:'+($root.m2)+';')+('margin:'+(margin2)+';')+('border-radius:'+($root.m3)+';')+('border:'+(border)+';')+('background-color:'+(backgroundColor)+';')}}" bindtap="__e"><slot></slot></view>

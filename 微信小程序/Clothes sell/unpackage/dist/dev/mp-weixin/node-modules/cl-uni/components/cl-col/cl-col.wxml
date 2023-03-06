@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onTap',['$event']]]]]}}" class="{{['cl-col',classList]}}" style="{{'padding-left:'+(padding)+';'+('padding-right:'+(padding)+';')}}" bindtap="__e"><slot></slot></view>

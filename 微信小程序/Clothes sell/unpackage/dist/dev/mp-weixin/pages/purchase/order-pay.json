@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "region": "/components/region/region",
+    "cl-textarea": "/node-modules/cl-uni/components/cl-textarea/cl-textarea",
+    "cl-text": "/node-modules/cl-uni/components/cl-text/cl-text",
+    "uni-number-box": "/components/uni-number-box/uni-number-box",
+    "cl-input": "/node-modules/cl-uni/components/cl-input/cl-input",
+    "cl-button": "/node-modules/cl-uni/components/cl-button/cl-button",
+    "cl-loading-mask": "/node-modules/cl-uni/components/cl-loading-mask/cl-loading-mask",
+    "cl-confirm": "/node-modules/cl-uni/components/cl-confirm/cl-confirm",
+    "cl-radio": "/node-modules/cl-uni/components/cl-radio/cl-radio",
+    "cl-message": "/node-modules/cl-uni/components/cl-message/cl-message"
+  }
+}

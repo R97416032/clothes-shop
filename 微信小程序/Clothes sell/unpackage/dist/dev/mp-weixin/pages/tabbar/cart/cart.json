@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "cl-text": "/node-modules/cl-uni/components/cl-text/cl-text",
+    "cl-button": "/node-modules/cl-uni/components/cl-button/cl-button"
+  }
+}

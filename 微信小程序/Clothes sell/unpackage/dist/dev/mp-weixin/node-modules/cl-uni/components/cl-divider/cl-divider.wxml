@@ -1,0 +1,1 @@
+<view class="cl-divider"><view class="cl-divider__line" style="{{'background:'+(lineColor)+';'+('width:'+(width)+';')}}"></view><view class="cl-divider__text" style="{{'background-color:'+(backgroundColor)+';'}}"><slot></slot></view></view>

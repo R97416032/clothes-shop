@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['change',['$event']]]]]}}" class="{{['cl-radio',classList]}}" bindtap="__e"><view class="cl-radio__input"><block wx:if="{{checked}}"><text class="cl-icon-toast-success"></text></block></view><view class="cl-radio__label"><slot></slot></view></view>
