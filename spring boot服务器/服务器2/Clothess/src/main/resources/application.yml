@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    name: clothes
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.137.1:3306/clothes?characterEncoding=utf-8&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+#指定Mybatis的Mapper文件、实体目录
+mybatis:
+  #  mapper-locations: classpath:mappers/*xml
+  type-aliases-package: com.example.test.mybatis.entity
+
+# 应用服务 WEB 访问端口
+server:
+  port: 8081

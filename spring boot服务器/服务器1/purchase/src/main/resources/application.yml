@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: purchase
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/clothes?characterEncoding=utf-8&&serverTimezone=UTC
+
+mybatis:
+  type-aliases-package: com.mccc.purchase.pojo
+
+
+server:
+  port: 8081
